@@ -27,4 +27,11 @@
   </build>
   <name>rayKart</name>
   <description>It is a E-Commerce Web Application</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-java</artifactId>
+  		<version>3.11.0</version>
+  	</dependency>
+  </dependencies>
 </project>
